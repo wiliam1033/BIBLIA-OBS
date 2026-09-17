@@ -1,0 +1,6 @@
+{
+  "name": "Biblia RVR 1960 Pro - Transmisión & OBS Plugin",
+  "description": "Sistema profesional para proyectar la Biblia Reina Valera 1960 en transmisiones en vivo y OBS Studio con búsqueda rápida, fondos personalizables, transparencias, control en tiempo real y exportación de diapositivas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
